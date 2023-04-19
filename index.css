@@ -1,0 +1,17 @@
+.calc{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+.result{
+    text-align: center;
+    font-size: 3rem;
+}
+
+#num-1{
+    border: 1px solid red !important;
+}
